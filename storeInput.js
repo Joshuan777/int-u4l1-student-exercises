@@ -1,7 +1,7 @@
 let button = document.querySelector("button");
 let textElm = document.querySelector(".text");
 let numberElm = document.querySelector(".number");
-let emailELm = document.querySelector(".email");
+let emailElm = document.querySelector(".email");
 let dateElm = document.querySelector(".date");
 button.addEventListener("click", function() {
     let text;
